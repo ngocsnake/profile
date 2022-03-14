@@ -40,7 +40,6 @@ function startGame() {
         box.addEventListener('click', handleClick);
     })
 
-
     let stack = [];
     let boxOpened = 0;
     function handleClick() {
