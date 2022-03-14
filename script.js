@@ -6,6 +6,8 @@ const shuffleArray = (arr) => {
     }
     return output;
 }
+
+fire();
 function startGame() {
 
     const icons = ['🥗', '🍩', '🍵', '🥪', '🌳', '🌷', '🎊', '💖'];
